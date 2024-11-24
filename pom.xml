@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codemages</groupId>
-	<artifactId>Moviee</artifactId>
+	<artifactId>moviee</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Moviee</name>
+	<name>moviee</name>
 	<description>Movie Reservation System</description>
 	<url/>
 	<licenses>
